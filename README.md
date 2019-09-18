@@ -1,4 +1,4 @@
-# RESTFUL APT : TRANSACTION Between ACCOUNTS
+# RESTFUL API : TRANSACTION Between ACCOUNTS
 
 #### Create Account
 
